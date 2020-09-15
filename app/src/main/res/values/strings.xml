@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial 6</string>
+    <string name="Save">Save</string>
+    <string name="Show">Show</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+</resources>
